@@ -1,0 +1,17 @@
+.R*
+*.rds
+*.swp
+data/*.rds
+.idea*
+conf/*.ini
+conf/*.R
+.Rproj.user
+.log
+doc/*/*.log
+doc/*/*.spl
+doc/*/*.pdf
+doc/*/*.tex
+doc/*/*_files
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
