@@ -4,8 +4,8 @@
 
 It contains a serie of accessibility indices for H3 grid at 9 and 10 resolutions for the city of Madrid
 
-![Accessibility to Hotels - Walk Mode](images/WALK_CAD_HOTEL.png "Accessibility to Hotels walking"){width=320px}
-![Accessibility to highway - Car Mode](images/CAR_ROUTING_HIGHWAY.png "Accessibility to Highway by car"){width=320px}
+![Accessibility to Hotels - Walk Mode](images/WALK_CAD_HOTEL.png "Accessibility to Hotels walking"){width=250px}
+![Accessibility to highway - Car Mode](images/CAR_ROUTING_HIGHWAY.png "Accessibility to Highway by car"){width=250px}
 
 
 # Folder organization
