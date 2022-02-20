@@ -13,7 +13,9 @@ It contains a serie of accessibility indices for H3 grid at 9 and 10 resolutions
 *data* folder contains csv files with indicator and their corresponding H3 indices and geometries, there are two sets one with CAR indices and a second one with WALK mode indices. Within this folder there are two index sets:
 
 * __raw__ with the raw gravitational indices
-* __boosted__ with the orthogonal gravitational indices
+* __boosted__ with the orthogonal gravitational indices (boosted)
+
+The datasets use WKT (Well Known Text) for storing spatial features, coordinates are expressed in EPSG 4326 CRS.
 
 # Indices categories
 
