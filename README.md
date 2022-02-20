@@ -10,7 +10,10 @@ It contains a serie of accessibility indices for H3 grid at 9 and 10 resolutions
 
 # Folder organization
 
-*data* folder contains csv files with indicator and their corresponding H3 indices and geometries, there are two sets one with CAR indices and a second one with WALK mode indices.
+*data* folder contains csv files with indicator and their corresponding H3 indices and geometries, there are two sets one with CAR indices and a second one with WALK mode indices. Within this folder there are two index sets:
+
+* __raw__ with the raw gravitational indices
+* __boosted__ with the orthogonal gravitational indices
 
 # Indices categories
 
@@ -29,7 +32,6 @@ Indices have different nature and source, the following table contains which ind
 |Urban amenities   |hotel       |VACATIONAL         |count   |airbnb   |x   |x    | 
 |Urban amenities   |food        |FOOD               |count   |OSM      |x   |x    | 
 |Urban amenities   |tourism     |TOURISM            |count   |OSM      |x   |x    | 
-|Urban amenities   |public      |MONEY              |count   |OSM      |x   |x    | 
 |Urban amenities   |education   |CAD.PUBLIC         |area    |cadastre |x   |x    | 
 |Urban amenities   |education   |CAD.SCHOOL         |area    |cadastre |x   |x    | 
 |Urban amenities   |education   |EDUCATION          |count   |OSM      |x   |x    | 
